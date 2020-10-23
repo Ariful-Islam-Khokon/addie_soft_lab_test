@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "714583694652",
+    "firebase_url": "https://addiesoftlabflutter.firebaseio.com",
+    "project_id": "addiesoftlabflutter",
+    "storage_bucket": "addiesoftlabflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714583694652:android:07869c5d7cd08b95b7d239",
+        "android_client_info": {
+          "package_name": "com.cts.addie_soft_lab_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714583694652-ajdik3b4qg859u8j5p8q6kjkkec6ic11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqxpl7Ahw5cZ750IwGTMe6CMDqXhg2oAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714583694652-ajdik3b4qg859u8j5p8q6kjkkec6ic11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
